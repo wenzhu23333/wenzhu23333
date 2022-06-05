@@ -1,6 +1,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=wenzhu23333&show_icons=true&theme=highcontrast&count_private=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wenzhu23333&theme=highcontrast&hide=html,php)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wenzhu23333&theme=highcontrast&hide=html,php&layout=compact)
 
 
 <!--
